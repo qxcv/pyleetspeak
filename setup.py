@@ -48,7 +48,7 @@ setup(
         "keybert",
         "matplotlib",
         "nltk~=3.6.7",
-        "numpy~=1.21.5",
+        "numpy~=1.26.2",
         "Pyphen",
         "scikit_learn~=1.0.2",
         "setuptools",
