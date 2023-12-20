@@ -1,6 +1,6 @@
 build
 dist
-*.py
+*.pyc
 __pycache__
 *.egg-info
 .eggs
